@@ -1,14 +1,15 @@
 # Code Room
-### Live Preview : https://coderoom-1.onrender.com
+### Live Preview : https://code-room-a5zv.vercel.app/
 A collaborative code editor using React, Node.js, and Socket.IO, enabling multiple users to edit code simultaneously with real-time updates. Features include syntax highlighting, version control, and secure WebSocket-based synchronization. Deployed on Render, optimized for seamless live coding sessions and collaboration.
 
 ---
 
 # Home Page
-
+![Code Room Preview](https://drive.google.com/uc?export=view&id=14GnzTXQlAq7K8vzkx-_OWhJmMI8YgSVe)
 
 
 # Editor Page
+![Code Room UI](https://drive.google.com/uc?export=view&id=1AJJzs8O52SljWRRqXH6T-iS1tmUC4XLV)
 
 ---
 
