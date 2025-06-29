@@ -5,12 +5,12 @@ A collaborative code editor using React, Node.js, and Socket.IO, enabling multip
 ---
 
 # Home Page
-(https://drive.google.com/uc?export=view&id=14GnzTXQlAq7K8vzkx-_OWhJmMI8YgSVe)
-https://drive.google.com/file/d/14GnzTXQlAq7K8vzkx-_OWhJmMI8YgSVe/view?usp=drive_link
+![Code Room Preview](https://drive.google.com/uc?export=view&id=14GnzTXQlAq7K8vzkx-_OWhJmMI8YgSVe)
 
 
 # Editor Page
-(https://drive.google.com/file/d/1AJJzs8O52SljWRRqXH6T-iS1tmUC4XLV/view?usp=drive_link)
+![Code Room UI](https://drive.google.com/uc?export=view&id=1AJJzs8O52SljWRRqXH6T-iS1tmUC4XLV)
+
 ---
 
 ### Needs Addressed by Code Room:
