@@ -5,7 +5,8 @@ A collaborative code editor using React, Node.js, and Socket.IO, enabling multip
 ---
 
 # Home Page
-(https://drive.google.com/file/d/14GnzTXQlAq7K8vzkx-_OWhJmMI8YgSVe/view?usp=drive_link)
+(https://drive.google.com/uc?export=view&id=14GnzTXQlAq7K8vzkx-_OWhJmMI8YgSVe)
+https://drive.google.com/file/d/14GnzTXQlAq7K8vzkx-_OWhJmMI8YgSVe/view?usp=drive_link
 
 
 # Editor Page
